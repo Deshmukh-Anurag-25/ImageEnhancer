@@ -70,7 +70,7 @@ project/
 ## Setup
 
 ```bash
-git clone <https://github.com/Deshmukh-Anurag-25/ImageEnhancer>
+git clone https://github.com/Deshmukh-Anurag-25/ImageEnhancer
 cd project
 
 python -m venv venv
@@ -164,7 +164,3 @@ automatically. (Note: the hosted demo runs on CPU.)
 - No batch/queue processing for multiple images at once
 - No face-restoration pass (e.g. GFPGAN) for portraits
 - CPU inference on large images can still be slow; no background job queue yet
-
-## License
-
-MIT — see `LICENSE`.
