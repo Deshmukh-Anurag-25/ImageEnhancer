@@ -70,7 +70,7 @@ project/
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Deshmukh-Anurag-25/ImageEnhancer>
 cd project
 
 python -m venv venv
